@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Museum Details</title>
+    <!-- Include Slick Carousel styles -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"
+    />
+
+    <link rel="stylesheet" href="header.css" />
+
+    <!-- Add your own styles -->
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: #f0f0f0;
+      }
+
+      .container {
+        display: flex;
+        flex-direction: row;
+        background-color: #fff;
+        margin-bottom: 20px;
+        padding: 20px;
+        margin: 50px;
+      }
+
+      .left {
+        flex: 1;
+        padding: 20px;
+        overflow: hidden; /* Ensures images don't overflow */
+      }
+
+      .right {
+        flex: 2;
+        margin-top: 1rem;
+        flex-direction: row;
+        gap: 1rem;
+      }
+
+      .museum-images {
+        width: 100%;
+      }
+
+      .museum-images img {
+        width: 100%;
+        height: auto;
+        display: block;
+        margin-bottom: 10px;
+      }
+
+      .museum-details {
+        font-size: 16px;
+      }
+
+      .related-museums {
+        margin-top: 20px;
+        padding: 50px;
+      }
+
+      .related-header {
+        padding-left: 70px;
+        font-size: 2.25rem;
+        line-height: 2.5rem;
+      }
+
+      .related-museum-item {
+        text-align: center;
+        margin: 10px;
+        position: relative; /* Ensure relative positioning for children */
+        overflow: hidden; /* Prevents scaling overflow */
+        transition: transform 0.3s ease-in-out; /* Smooth transition on transform */
+      }
+
+      .related-museum-item img {
+        display: block;
+        margin: 0 auto;
+        width: 100%; /* Ensures image width covers the container */
+        height: auto;
+      }
+
+      .related-museum-item span {
+        display: block;
+        margin-top: 5px;
+      }
+
+      .related-museum-item:hover {
+        transform: scale(1.05); /* Scale up by 5% on hover */
+      }
+
+      .related-museum-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+      }
+
+      .related-museum-row .related-museum-item {
+        flex: 1 1 20%; /* Adjust as needed for spacing */
+        max-width: calc(25% - 10px); /* Adjust as needed for spacing */
+      }
+
+      /* Optional: Customize carousel styles */
+      .slick-slide img {
+        width: 100%;
+        height: auto;
+      }
+    </style>
+
+    <style>
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        background: url("background-image-2.jpg") no-repeat center center fixed;
+        background-size: cover;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .title-container {
+        position: absolute;
+        left: 20px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: white;
+        font-size: 6em;
+        font-weight: bold; /* Add this line to make the font bold */
+        background-color: #6366f1;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar">
+      <a href="#" class="logo">
+        <!-- <img src="logo.jpg" alt="Logo" />
+        <p>Company Name</p> -->
+      </a>
+
+      <ul class="main-nav" id="main-nav">
+        <li class="dropdown">
+          <a href="#" class="nav-links">Museums</a>
+          <div class="dropdown-content">
+            <ul id="museum-list">
+              <!-- The museums will be dynamically inserted here -->
+            </ul>
+          </div>
+        </li>
+        <li id="username-container">
+          <a href="login.html" class="nav-links" id="username">Login</a>
+        </li>
+        <li id="profile-pic-container" style="display: none">
+          <a href="profile.html" class="nav-links">
+            <img
+              class="user-profile-pic"
+              id="user-profile-pic"
+              alt="User Profile Picture"
+              width="40"
+            />
+          </a>
+        </li>
+        <li id="logout-container" style="display: none">
+          <a href="#" class="nav-links" id="logout">Logout</a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="container">
+      <div class="left">
+        <!-- Museum images will be dynamically inserted here -->
+        <div class="museum-images"></div>
+      </div>
+      <div class="right">
+        <!-- Museum details will be dynamically inserted here -->
+        <div id="museum-details"></div>
+        <!-- Favorite button -->
+        <div class="favorite-btn" id="favorite-btn">
+          &#10084; Add to Favorites
+        </div>
+      </div>
+    </div>
+
+    <!-- Related museums -->
+    <div class="related-museums">
+      <h3 class="related-header">Related Museums</h3>
+      <div id="related-museums-list">
+        <!-- Related museums will be dynamically inserted here -->
+      </div>
+    </div>
+
+    <script src="dropdown.js"></script>
+
+    <!-- Include jQuery (required for Slick Carousel) -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Include Slick Carousel script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const museumName = urlParams.get("name");
+        const regionName = urlParams.get("region");
+
+        if (museumName && regionName) {
+          fetch("data/museums.json")
+            .then((response) => response.json())
+            .then((data) => {
+              const museum = findMuseumByName(data[regionName], museumName);
+
+              if (museum) {
+                displayMuseumDetails(museum);
+                displayMuseumImages(museum);
+                displayRelatedMuseums(data, regionName, museum); // Display related museums
+                setupFavoriteButton(museum, regionName); // Setup favorite button functionality
+              } else {
+                displayError("Museum not found.");
+              }
+            })
+            .catch((error) => {
+              console.error("Error fetching museum data:", error);
+              displayError("Failed to fetch museum data.");
+            });
+        } else {
+          displayError("Museum name or region not provided.");
+        }
+      });
+
+      function findMuseumByName(museums, name) {
+        // Find the museum by name within the region's museums
+        return museums.find((museum) => museum.name === name);
+      }
+
+      function displayMuseumDetails(museum) {
+        const museumDetails = document.getElementById("museum-details");
+
+        // Create HTML content to display museum details
+        let htmlContent = `
+        <h2>${museum.name}</h2>
+        <p><strong>Location:</strong> ${museum.location}</p>
+        <p><strong>Hours:</strong> ${museum.hours}</p>
+        <p><strong>Description:</strong> ${museum.description}</p>
+      `;
+
+        museumDetails.innerHTML = htmlContent;
+      }
+
+      function displayMuseumImages(museum) {
+        const museumImagesContainer = document.querySelector(".museum-images");
+
+        if (museum.images && museum.images.length > 0) {
+          museum.images.forEach((imageUrl) => {
+            const imgElement = document.createElement("img");
+            imgElement.src = imageUrl;
+            museumImagesContainer.appendChild(imgElement);
+          });
+
+          // Initialize Slick Carousel after images are loaded
+          $(document).ready(function () {
+            $(".museum-images").slick({
+              autoplay: true,
+              autoplaySpeed: 3000,
+              dots: true,
+              infinite: true,
+              speed: 500,
+              fade: true,
+              cssEase: "linear",
+            });
+          });
+        }
+      }
+
+      function setupFavoriteButton(museum, region) {
+        const favoriteBtn = document.getElementById("favorite-btn");
+
+        favoriteBtn.addEventListener("click", () => {
+          // Check if local storage is supported
+          if (typeof Storage !== "undefined") {
+            const currentUser = JSON.parse(
+              sessionStorage.getItem("currentUser")
+            );
+
+            if (currentUser) {
+              const favoriteMuseums =
+                JSON.parse(localStorage.getItem(currentUser.username)) || [];
+
+              // Check if museum is already in favorites
+              const isFavorite = favoriteMuseums.some(
+                (fav) => fav.name === museum.name && fav.region === region
+              );
+
+              if (!isFavorite) {
+                // Add museum to favorites
+                favoriteMuseums.push({ ...museum, region });
+                localStorage.setItem(
+                  currentUser.username,
+                  JSON.stringify(favoriteMuseums)
+                );
+                alert("Museum added to favorites!");
+              } else {
+                alert("Museum is already in favorites!");
+              }
+            } else {
+              alert("Please login to add museums to favorites.");
+            }
+          } else {
+            alert("Sorry, your browser does not support local storage.");
+          }
+        });
+      }
+
+      function displayRelatedMuseums(data, region, currentMuseum) {
+        const relatedMuseumsContainer = document.getElementById(
+          "related-museums-list"
+        );
+        let count = 0;
+
+        // Iterate through other museums in the same region
+        const museumsInRegion = data[region];
+        for (const museum of museumsInRegion) {
+          if (museum.name !== currentMuseum.name && count < 8) {
+            const relatedMuseumItem = document.createElement("div");
+            relatedMuseumItem.classList.add("related-museum-item");
+
+            // Create anchor tag for museum link
+            const relatedMuseumLink = document.createElement("a");
+            relatedMuseumLink.href = `museum.html?region=${encodeURIComponent(
+              region
+            )}&name=${encodeURIComponent(museum.name)}`;
+
+            // Create image element
+            const relatedMuseumImage = document.createElement("img");
+            relatedMuseumImage.src = museum.images[0]; // Assuming each museum object has an 'images' array
+            relatedMuseumImage.alt = museum.name;
+            relatedMuseumImage.width = 60; // Adjust size as needed
+            relatedMuseumImage.height = 60; // Adjust size as needed
+
+            // Create name element
+            const relatedMuseumName = document.createElement("span");
+            relatedMuseumName.textContent = museum.name;
+
+            // Append image and name to link
+            relatedMuseumLink.appendChild(relatedMuseumImage);
+            relatedMuseumLink.appendChild(relatedMuseumName);
+
+            // Append link to item
+            relatedMuseumItem.appendChild(relatedMuseumLink);
+
+            // Append item to container
+            relatedMuseumsContainer.appendChild(relatedMuseumItem);
+
+            count++;
+          }
+        }
+
+        if (count === 0) {
+          relatedMuseumsContainer.innerHTML =
+            "<p>No related museums found.</p>";
+        }
+
+        // Rearrange into rows of 4 images
+        const relatedMuseumItems = relatedMuseumsContainer.querySelectorAll(
+          ".related-museum-item"
+        );
+        let rowContainer;
+
+        relatedMuseumItems.forEach((item, index) => {
+          if (index % 4 === 0) {
+            rowContainer = document.createElement("div");
+            rowContainer.classList.add("related-museum-row");
+            relatedMuseumsContainer.appendChild(rowContainer);
+          }
+          rowContainer.appendChild(item);
+        });
+      }
+
+      function displayError(message) {
+        const museumDetails = document.getElementById("museum-details");
+        museumDetails.innerHTML = `<p>${message}</p>`;
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login Page</title>
+    <link rel="stylesheet" href="login.css" />
+    
+  </head>
+  <body>
+    <!-- Login form section -->
+    <main>
+      <div class="container">
+        <div class="left-side"></div>
+        <div class="right-side">
+          <div>
+            <form class="form" id="loginForm">
+              <div>
+                <p class="welcome-text">Welcome!</p>
+              </div>
+
+              <div class="form-group">
+                <label class="label" for="username">Username:</label>
+                <input
+                  class="input"
+                  type="text"
+                  id="username"
+                  name="username"
+                  required
+                />
+              </div>
+
+              <div class="form-group">
+                <label class="label" for="password">Password:</label>
+                <input
+                  class="input"
+                  type="password"
+                  id="password"
+                  name="password"
+                  required
+                />
+              </div>
+
+              <div class="text-center">
+                <a type="button" class="login-button" onclick="login()">Login</a>
+              </div>
+
+              <div class="text-center">
+                <a type="button" class="login-button" href="register.html">Register</a>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script src="login.js"></script>
+  </body>
+</html>

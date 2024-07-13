@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Details and Favorite Museums</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .user-details-container {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 20px;
+        background-color: #ffffff;
+        background-size: cover;
+        max-width: 80%;
+        margin: auto;
+      }
+
+      .user-background {
+        background: url("background-image-2.jpg") no-repeat center center fixed;
+        background-size: cover;
+        padding: 50px;
+      }
+
+      .user-image {
+        max-width: 200px; /* Adjust the maximum width of the user image */
+        height: auto;
+        display: block;
+        margin-bottom: 10px;
+      }
+
+      .user-details {
+        flex: 1;
+        padding: 20px;
+      }
+
+      .user-details h2 {
+        margin-top: 0;
+        font-size: 1.5em;
+        font-weight: bold;
+      }
+
+      .user-details p {
+        margin: 5px 0;
+      }
+
+      .favorite-museums-header {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 10px;
+        max-width: 80%;
+        margin: auto;
+        padding: 30px;
+      }
+
+      .museum-container {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 20px;
+        border-radius: 8px;
+        max-width: 80%;
+        margin: auto;
+      }
+
+      .museum-item {
+        width: 25%;
+        padding: 10px;
+        box-sizing: border-box;
+        position: relative; /* Ensure relative positioning for children */
+        overflow: hidden; /* Prevents scaling overflow */
+        transition: transform 0.3s ease-in-out; /* Smooth transition on transform */
+      }
+
+      .museum-item img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin-bottom: 10px;
+      }
+
+      .museum-item .museum-name {
+        text-align: center;
+        font-weight: bold;
+      }
+
+      .museum-item:hover {
+        transform: scale(1.05); /* Scale up by 5% on hover */
+      }
+    </style>
+
+    <link rel="stylesheet" href="header.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <a href="#" class="logo">
+        <!-- <img src="logo.jpg" alt="Logo" />
+          <p>Company Name</p> -->
+      </a>
+
+      <ul class="main-nav" id="main-nav">
+        <li class="dropdown">
+          <a href="#" class="nav-links">Museums</a>
+          <div class="dropdown-content">
+            <ul id="museum-list">
+              <!-- The museums will be dynamically inserted here -->
+            </ul>
+          </div>
+        </li>
+        <li id="username-container">
+          <a href="login.html" class="nav-links" id="username">Login</a>
+        </li>
+        <li id="profile-pic-container" style="display: none">
+          <a href="profile.html" class="nav-links">
+            <img
+              class="user-profile-pic"
+              id="user-profile-pic"
+              alt="User Profile Picture"
+              width="40"
+            />
+          </a>
+        </li>
+        <li id="logout-container" style="display: none">
+          <a href="#" class="nav-links" id="logout">Logout</a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="user-background">
+      <div class="user-details-container" id="user-details-container">
+        <!-- User details will be dynamically inserted here -->
+      </div>
+    </div>
+
+    <h2 class="favorite-museums-header">Like Museums</h2>
+
+    <div class="museum-container" id="museum-container">
+      <!-- Favorite museums will be dynamically inserted here -->
+    </div>
+
+    <script src="user-details.js"></script>
+    <script src="dropdown.js"></script>
+  </body>
+</html>

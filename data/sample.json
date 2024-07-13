@@ -1,0 +1,45 @@
+{
+    "Luzon": [
+        {
+            "name": "National Museum of Fine Arts",
+            "location": "Manila",
+            "hours": "Open Tuesday to Sunday, 10:00 AM to 5:00 PM",
+            "website": "www.nationalmuseum.gov.ph",
+            "description": "The National Museum of Fine Arts houses a extensive collection of Philippine art, including paintings, sculptures, and other works by renowned Filipino artists.",
+            "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/National_Museum_of_Fine_Arts_Manila_2024.jpg/1024px-National_Museum_of_Fine_Arts_Manila_2024.jpg?fbclid=IwZXh0bgNhZW0CMTAAAR1bMOUShFmiM_qLri1nXNJB1uokybMPfHtzOQGSZDD1TOEbOZi1afDi8_Q_aem_6kq9MUXFP9BbyTKEcTZW2A",
+                "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2021/08/01130910/IMG_5248-scaled.jpg?fbclid=IwZXh0bgNhZW0CMTAAAR0QrAwEFsaXqmCztnCvx_91Ts1irbFCzFBDEDoz6qqHmfEi913l5xnGhyI_aem_xq4xSSDtc296YPf2970dYg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4RYXWSgaVuSsM36R3Igoo5YMBP-sbBW--dA&s&fbclid=IwZXh0bgNhZW0CMTAAAR2Xd5N28PGkUhJaFGTHaGgeLaveRB8Fdw4IS5_-953gpQxTX_uIFyByj0Y_aem_oRzO_F2062Khg90_47g8jw"
+            ]
+        }
+    ],
+    "Visayas": [
+        {
+            "name": "The Negros Museum",
+            "location": "Negros Occidental",
+            "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+            "website": "www.thenegrosmuseum.com",
+            "description": "The Negros Museum showcases the rich cultural heritage of Negros Island, with exhibits highlighting the island's history, arts, and traditions.",
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqafVSoZgjQDeb2NQnBi-UmWaaucCGRv1P1w&s",
+                "https://live.staticflickr.com/3495/4025266015_5b440a6922_b.jpg",
+                "https://betsynegrense.com/wp-content/uploads/2021/02/Pre-colonial-3-scaled.jpg"
+            ]
+        }
+    ],
+    "Mindanao": [
+        {
+            "name": "D' Bone Collector Museum",
+            "location": "Davao City",
+            "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+            "website": "www.dbonecollector.com",
+            "description": "The D' Bone Collector Museum houses an extensive collection of skeletons and fossils, showcasing the diversity of the Philippines' flora and fauna.",
+            "images": [
+                "https://images.squarespace-cdn.com/content/v1/5d7f2d797a64971f017f10ff/1586524516950-CF1EA17LKLUWAJA34GS4/05-04+DBONE+COLLECTOR+MUSEUM+CP.png?format=1500w",
+                "https://peacedionelablog.wordpress.com/wp-content/uploads/2017/10/986_18592385621303202646.jpg",
+                "https://peacedionelablog.wordpress.com/wp-content/uploads/2017/10/0998d-bone14.jpg?w=400&h=300",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jc76KqfHOAWzcvX47MD17SUI_4Vi0pqh_EiI6eT3Goj44SMdR27OpzZW63f_1OFIBNfvw42AndRQ444LQakiKUBtXi7lhiImMmHdapvYID2zeZItXydFk6tYlmqQih_J6R0eD8is0Rc/s1600/Darrell+Blatchley.jpg"
+            ]
+        }
+    ]
+}

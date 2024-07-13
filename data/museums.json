@@ -1,0 +1,405 @@
+{
+  "Luzon": [
+    {
+      "name": "National Museum of Fine Arts",
+      "location": "Manila",
+      "hours": "Open Tuesday to Sunday, 10:00 AM to 5:00 PM",
+      "website": "www.nationalmuseum.gov.ph",
+      "description": "The National Museum of Fine Arts houses a extensive collection of Philippine art, including paintings, sculptures, and other works by renowned Filipino artists.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/National_Museum_of_Fine_Arts_Manila_2024.jpg/1024px-National_Museum_of_Fine_Arts_Manila_2024.jpg?fbclid=IwZXh0bgNhZW0CMTAAAR1bMOUShFmiM_qLri1nXNJB1uokybMPfHtzOQGSZDD1TOEbOZi1afDi8_Q_aem_6kq9MUXFP9BbyTKEcTZW2A",
+        "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2021/08/01130910/IMG_5248-scaled.jpg?fbclid=IwZXh0bgNhZW0CMTAAAR0QrAwEFsaXqmCztnCvx_91Ts1irbFCzFBDEDoz6qqHmfEi913l5xnGhyI_aem_xq4xSSDtc296YPf2970dYg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4RYXWSgaVuSsM36R3Igoo5YMBP-sbBW--dA&s&fbclid=IwZXh0bgNhZW0CMTAAAR2Xd5N28PGkUhJaFGTHaGgeLaveRB8Fdw4IS5_-953gpQxTX_uIFyByj0Y_aem_oRzO_F2062Khg90_47g8jw"
+      ]
+    },
+    {
+      "name": "National Museum of Anthropology",
+      "location": "Manila",
+      "hours": "Open Tuesday to Sunday, 10:00 AM to 5:00 PM",
+      "website": "www.nationalmuseum.gov.ph",
+      "description": "The National Museum of Anthropology showcases the diverse cultures, traditions, and heritage of the Philippine archipelago.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/40/National_Museum_of_Anthropology_2024.jpg",
+        "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2021/08/01125523/Jar-burials.png",
+        "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2021/08/01125153/DSC00351-1-scaled.jpg"
+      ]
+    },
+    {
+      "name": "National Museum of Natural History",
+      "location": "Manila",
+      "hours": "Open Tuesday to Sunday, 10:00 AM to 5:00 PM",
+      "website": "www.nationalmuseum.gov.ph",
+      "description": "The National Museum of Natural History features exhibits on the Philippines' rich biodiversity, geological formations, and natural history.",
+      "images": [
+        "https://nolisoli.ph/wp-content/uploads/2017/10/t0121toti_1-740x555.jpg",
+        "https://washington.org/sites/default/files/2024-05/Smithsonian%20Natural%20History%20Museum%20credit%20washington.org_.jpg",
+        "https://images.summitmedia-digital.com/spotph/images/2022/09/05/national-museum-natural-history-12-1662374116.jpg"
+      ]
+    },
+    {
+      "name": "Ayala Museum",
+      "location": "Makati City",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 6:00 PM",
+      "website": "www.ayalamuseum.org",
+      "description": "The Ayala Museum is a private museum that showcases Filipino art, history, and culture through its permanent and temporary exhibitions.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/70/Ayala_Museum_-_5e38f70b66.jpg",
+        "https://ptvnews.ph/wp-content/uploads/2023/05/12710749_1098557803498131_3513457763847553380_o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/yBrr8PsFRh81XkAm_3MAaA/348s.jpg"
+      ]
+    },
+    {
+      "name": "The Mind Museum",
+      "location": "Taguig City",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 6:00 PM",
+      "website": "www.themindmuseum.org",
+      "description": "The Mind Museum is an interactive science museum that aims to inspire curiosity and foster learning about science, technology, and the natural world.",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/5c/b7/73/20180610-130247-largejpg.jpg?w=1000&h=-1&s=1",
+        "https://1.bp.blogspot.com/-_7d9tCYOf3o/XVjFwlT2dRI/AAAAAAACCFA/loabD_q289QyTwKiwXnwnw5dWgMW1O6JQCKgBGAs/s400/IMG_4558.HEIC",
+        "https://www.willflyforfood.net/uploads/food-travel3/manila/mind-museum/mindmuseum2.jpg"
+      ]
+    },
+    {
+      "name": "Museum of Contemporary Art and Design (MCAD)",
+      "location": "Manila",
+      "hours": "Open Tuesday to Sunday, 10:00 AM to 6:00 PM",
+      "website": "www.mcadmanila.org.ph",
+      "description": "The Museum of Contemporary Art and Design is dedicated to showcasing and promoting contemporary art and design from the Philippines and around the world.",
+      "images": [
+        "https://fastly.4sqi.net/img/general/width960/34318431_P4tn5155n-4MmXfX4Ph5ivfOG9gO2khH90vkDZwnK50.jpg",
+        "https://fastly.4sqi.net/img/general/width960/34318431_3-FvdnCPgyQE7SlcRwJbajGzbjTcs8ckQ1sM4VzVmA8.jpg",
+        "https://www.filipinoart.ph/newsroom/wp-content/uploads/2020/05/mcad.jpg"
+      ]
+    },
+    {
+      "name": "Metropolitan Museum of Manila",
+      "location": "Manila",
+      "hours": "Open Tuesday to Sunday, 10:00 AM to 6:00 PM",
+      "website": "www.metmuseum.ph",
+      "description": "The Metropolitan Museum of Manila is a premier art museum that features a diverse collection of Philippine art, ranging from traditional to contemporary works.",
+      "images": [
+        "https://files.ocula.com/anzax/89/89e40a64-cc38-4ce4-8a6f-16af4321d6e6_360_225.png",
+        "https://images.squarespace-cdn.com/content/v1/6445ec71191ca82336214d47/f3c9d4df-9cf3-43b4-b8f3-333dd19b62cd/20230726_145651+%281%29.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5958da62d2b857c0a9d740fb/1499002224227-67O0TNZXWCC51BSVR66P/img_3895.jpg?format=1500w"
+      ]
+    },
+    {
+      "name": "Yuchengco Museum",
+      "location": "Makati City",
+      "hours": "Open Tuesday to Sunday, 10:00 AM to 6:00 PM",
+      "website": "www.yuchengcomuseum.org",
+      "description": "The Yuchengco Museum is a private museum that highlights the art, culture, and heritage of the Philippines, with a focus on the contributions of the Yuchengco family.",
+      "images": [
+        "https://rcbcplaza.com.ph/wp-content/uploads/2023/11/169-Arvin-Arante_thumb.jpg",
+        "https://pbs.twimg.com/media/FLIrO0qagAEgFzN?format=jpg&name=small",
+        "https://i0.wp.com/farm9.staticflickr.com/8865/17725913326_2d27322d7c_b.jpg?resize=468%2C312&ssl=1"
+      ]
+    },
+    {
+      "name": "San Agustin Museum",
+      "location": "Intramuros, Manila",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "website": "www.sanagunstinmuseum.com",
+      "description": "The San Agustin Museum is located within the historic San Agustin Church, showcasing religious artifacts, art, and the rich history of the Augustinian order in the Philippines.",
+      "images": [
+        "https://www.filipinoart.ph/newsroom/wp-content/uploads/2020/04/San-Agustin-Museum3.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8iLiyXFAkug3T7OEIu9mLF51D-FDF9VR8tA&s&fbclid=IwAR1K7FznWuhH8J3a6gUV5bl9XEwa4U14c7yTZ_kOH83RTl3bOzzViXvCxD2LmuNYeXRaiz39UVtH7X0O_o_QQRCfaT9haCfr7-wHk",
+        "https://qph.cf2.quoracdn.net/main-qimg-dbc24cf235f95f7f9530d96312f161c8-lq"
+      ]
+    },
+    {
+      "name": "BenCab Museum",
+      "location": "Baguio City",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 6:00 PM",
+      "website": "www.bencabmuseum.org",
+      "description": "The BenCab Museum houses the works of National Artist Benedicto Cabrera, as well as a collection of indigenous artifacts and contemporary Philippine art.",
+      "images": [
+        "https://media.philstar.com/photos/2020/08/10/ben-cab-museum-eco-trail_2020-08-10_15-23-47.jpg",
+        "https://www.wayfarerly.com/wp-content/uploads/2023/03/bencab-museum-baguio.jpg",
+        "https://lh3.googleusercontent.com/p/AF1QipM13_YkSp26r-N1Lzt_QMdw1YdNDArDW2r9OH10=s1600-w1600-h1600"
+      ]
+    }
+  ],
+  "Visayas": [
+    {
+      "name": "The Negros Museum",
+      "location": "Negros Occidental",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "website": "www.thenegrosmuseum.com",
+      "description": "The Negros Museum showcases the rich cultural heritage of Negros Island, with exhibits highlighting the island's history, arts, and traditions.",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqafVSoZgjQDeb2NQnBi-UmWaaucCGRv1P1w&s",
+        "https://live.staticflickr.com/3495/4025266015_5b440a6922_b.jpg",
+        "https://betsynegrense.com/wp-content/uploads/2021/02/Pre-colonial-3-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Bohol National Museum",
+      "location": "Bohol",
+      "hours": "Open Tuesday to Sunday, 8:00 AM to 5:00 PM",
+      "website": "www.boholnationalmuseum.gov.ph",
+      "description": "The Bohol National Museum features exhibits on the natural history, archaeology, and ethnography of the Bohol province.",
+      "images": [
+        "https://www.nationalmuseum.gov.ph/wp-content/uploads/2021/09/SLIDE_SHOW_1-scaled.jpg",
+        "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2021/09/01114213/TIMELINE-PHOTO-3-replacement-300x225.jpg",
+        "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2021/09/01121409/Natural_History_1-scaled.jpg"
+      ]
+    },
+    {
+      "name": "National Museum of the Philippines – Cebu",
+      "location": "Cebu",
+      "hours": "Open Tuesday to Sunday, 10:00 AM to 5:00 PM",
+      "website": "www.nationalmuseum.gov.ph/cebu",
+      "description": "The Cebu branch of the National Museum of the Philippines showcases the art, history, and cultural treasures of the Visayas region.",
+      "images": [
+        "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2023/07/31115833/DSC09024-1024x683.jpg",
+        "https://storage.googleapis.com/cebuinsights-assets/2023/09/eab983e8-nmp-central-visayas-109.webp",
+        "https://images.hive.blog/0x0/https://files.peakd.com/file/peakd-hive/mariasalve/Eoc83ScDZTEpFiahJM8TT3Kk2cef6knLTzSFgbdRJsAfxTmura1p16rea3nx7Ar4drH.jpg"
+      ]
+    },
+    {
+      "name": "Iloilo Museum of Contemporary Art",
+      "location": "Iloilo",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 6:00 PM",
+      "website": "www.imoca.gov.ph",
+      "description": "The Iloilo Museum of Contemporary Art features exhibitions and installations by contemporary Filipino artists.",
+      "images": [
+        "https://iloiloartlife.com/wp-content/uploads/2023/08/Iloilo-Museum-of-Contemporary-Art-ILOMOCA-2023-scaled.jpg",
+        "https://partify.io/upload/gallery/19226/18460-zvwxzmypsg-1920.jpg",
+        "https://images.summitmedia-digital.com/spotph/images/2018/03/20/ilomoca-4.jpg"
+      ]
+    },
+    {
+      "name": "Rizal Memorial Library and Museum",
+      "location": "Cebu",
+      "hours": "Open Tuesday to Sunday, 8:00 AM to 5:00 PM",
+      "phone": "+63 32 412 6789",
+      "description": "The Rizal Memorial Library and Museum houses a collection of memorabilia and artifacts related to the life and legacy of national hero Dr. Jose Rizal.",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/57/7a/dd/jose-rizal-memorial-library.jpg?w=1200&h=1200&s=1",
+        "https://pinaywise.com/wp-content/uploads/2024/01/Rizal-Memorial-Library-and-Museum-cebu-philippines-1.jpg",
+        "https://l450v.alamy.com/450v/2jcgwjk/the-rizal-memorial-library-and-museum-in-cebu-philippines-designed-by-juan-arellano-and-built-in-1939-2jcgwjk.jpg"
+      ]
+    },
+    {
+      "name": "University of San Carlos Museum",
+      "location": "Cebu",
+      "hours": "Open Tuesday to Saturday, 9:00 AM to 5:00 PM",
+      "website": "www.usc.edu.ph/museum",
+      "description": "The University of San Carlos Museum features exhibits on the natural sciences, archaeology, and ethnography of the Visayas region.",
+      "images": [
+        "https://pinaywise.com/wp-content/uploads/2024/01/University-of-San-Carlos-Museum-cebu-philippines.jpg",
+        "https://lh3.googleusercontent.com/p/AF1QipPWwZIdC3-6DoiI7sRyq-P4Z1LVuYFHsmzKGRqr=s680-w680-h510",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/University_of_San_Carlos_%28Pantaleon_Del_Rosario%2C_Cebu_City%3B_09-05-2022%29.jpg/1024px-University_of_San_Carlos_%28Pantaleon_Del_Rosario%2C_Cebu_City%3B_09-05-2022%29.jpg"
+      ]
+    },
+    {
+      "name": "Gabaldon Building Museum",
+      "location": "Iloilo",
+      "hours": "Open Tuesday to Sunday, 10:00 AM to 6:00 PM",
+      "phone": "+63 33 337 2345",
+      "description": "The Gabaldon Building Museum is housed in a historic Spanish colonial-era structure and showcases the architecture and history of the region.",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJmJ-lLhAqlDKPCe7msYEy0GGlfCMKRWkWA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjxPurDob2U4hF9TzRbdv21B3SLbo-_7Wmw&s",
+        "https://shemaegomez.com/wp-content/uploads/2017/01/inhs-gabaldon.png"
+      ]
+    },
+    {
+      "name": "Negros Occidental Provincial Capitol and Museum",
+      "location": "Bacolod, Negros Occidental",
+      "hours": "Open Monday to Friday, 8:00 AM to 5:00 PM",
+      "website": "www.negros-occ.gov.ph/museum",
+      "description": "The Negros Occidental Provincial Capitol and Museum features exhibits on the history, culture, and governance of the province.",
+      "images": [
+        "https://i0.wp.com/static.flickr.com/76/199467031_0a054d870e.jpg",
+        "https://lh5.googleusercontent.com/p/AF1QipM11LWacapcv2o2Xaw4RjfdjMbKblS8baMf7mA=w540-h312-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipM9IjlehlOQpPW9-RkKb_ovkArU_kpcYCv1dVYg=w540-h312-n-k-no"
+      ]
+    },
+    {
+      "name": "Patnongon Museum",
+      "location": "Antique",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "phone": "+63 36 540 9876",
+      "description": "The Patnongon Museum showcases the indigenous arts, crafts, and traditions of the Antique province.",
+      "images": [
+        "https://www.marc7travels.com/uploads/5/1/4/9/51490145/img-3552_1_orig.jpg",
+        "https://www.marc7travels.com/uploads/5/1/4/9/51490145/published/img-3551_1.jpg?1540341084",
+        "https://www.marc7travels.com/uploads/5/1/4/9/51490145/published/img-3554.jpg?1540341353"
+      ]
+    },
+    {
+      "name": "Silliman University Anthropology Museum",
+      "location": "Dumaguete",
+      "hours": "Open Monday to Friday, 8:00 AM to 5:00 PM",
+      "website": "www.su.edu.ph/museum",
+      "description": "The Silliman University Anthropology Museum features exhibits on the cultural diversity and heritage of the Visayas region.",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/1b/0b/3c/silliman-university-anthropolo.jpg?w=1200&h=-1&s=1",
+        "https://live.staticflickr.com/1900/30780166718_dd0e5fd743_b.jpg",
+        "https://live.staticflickr.com/1890/43931805584_e251c8955b_b.jpg"
+      ]
+    },
+    {
+      "name": "Santa Barbara Centennial Museum",
+      "location": "Iloilo",
+      "hours": "Open Tuesday to Sunday, 10:00 AM to 6:00 PM",
+      "phone": "+63 33 392 1234",
+      "description": "The Santa Barbara Centennial Museum celebrates the history and cultural legacy of the Santa Barbara municipality in Iloilo.",
+      "images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqx9JtMgOsEnXM9p8Pfa6u6tHZ5__lW5u39hyphenhyphenSmvN5UIz4FwmOphg3A08gqW0x34seKTStOdT5xi2G_uvuKtSx1okfre435PcBTKnqvakq26vHhnqQAAK3nUuiQFbUqgH4X2ljEKNXkgP/s1600/centennial+museum+in+santa+barbara,+iloilo.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpOMDSgqochWmWgSz-B3FMgZTk0iPaQMqkWX6cxo6EeGqqG5-CfcdplWGIgX-MuLO38kj03GiZ80G3cdA3AUerSPTfSnHi63oU81nxiSx-tM1UC9i6uSJluqnGQNgCH3xkCBMMBSwWQvAQ/s1600/Santa+Barbara+centennial+Museum+in+Iloilo-+gmtd+memorabilias.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidEd0ZH17jTuMOC2OAa3rM1lLrUkWF6v4zFzykhnfAgeW6zOdFAbOK87sK-WdF-KiBMy2Qtf5oUiOUAO02SU-VW7w-kWg3fgJ0qKZOHtH8OZp9a6dxk3ANCN3ZZKXJ31qOnaqCUNBls7NS/s1600/Santa+Barbara+Centennial+Museum+Iloilo+-+religious+ecclesiastical++display+2.jpg"
+      ]
+    },
+    {
+      "name": "Boljoon Parish Museum",
+      "location": "Cebu",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "website": "www.boljoonparishmuseum.org",
+      "description": "The Boljoon Parish Museum showcases the religious art, artifacts, and history of the Boljoon Parish, one of the oldest Catholic churches in the Philippines.",
+      "images": [
+        "https://partify.io/upload/gallery/19180/18501-obzjnsuuwn-1920.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6e/11/71/the-nuestra-senora-del.jpg?w=1200&h=1200&s=1",
+        "https://www.rappler.com/tachyon/2024/02/cebu-panels-natlional-museum-2.jpeg"
+      ]
+    },
+    {
+      "name": "University of the Philippines Visayas Museum of Natural Sciences",
+      "location": "Iloilo",
+      "hours": "Open Monday to Friday, 8:00 AM to 5:00 PM",
+      "website": "www.upv.edu.ph/museum",
+      "description": "The University of the Philippines Visayas Museum of Natural Sciences features exhibits on the natural history and biodiversity of the Visayas region.",
+      "images": [
+        "https://www.upv.edu.ph/images/upv-mach-gets-funding-mount-series-exhibits.jpg",
+        "https://cfos.upv.edu.ph/wp-content/uploads/received_1811158229223135.jpeg",
+        "https://cfos.upv.edu.ph/wp-content/uploads/IMG_3685-2-scaled.jpg"
+      ]
+    }
+  ],
+  "Mindanao": [
+    {
+      "name": "D' Bone Collector Museum",
+      "location": "Davao City",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "website": "www.dbonecollector.com",
+      "description": "The D' Bone Collector Museum houses an extensive collection of skeletons and fossils, showcasing the diversity of the Philippines' flora and fauna.",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5d7f2d797a64971f017f10ff/1586524516950-CF1EA17LKLUWAJA34GS4/05-04+DBONE+COLLECTOR+MUSEUM+CP.png?format=1500w",
+        "https://peacedionelablog.wordpress.com/wp-content/uploads/2017/10/986_18592385621303202646.jpg",
+        "https://peacedionelablog.wordpress.com/wp-content/uploads/2017/10/0998d-bone14.jpg?w=400&h=300",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jc76KqfHOAWzcvX47MD17SUI_4Vi0pqh_EiI6eT3Goj44SMdR27OpzZW63f_1OFIBNfvw42AndRQ444LQakiKUBtXi7lhiImMmHdapvYID2zeZItXydFk6tYlmqQih_J6R0eD8is0Rc/s1600/Darrell+Blatchley.jpg"
+      ]
+    },
+    {
+      "name": "Museo Dabawenyo",
+      "location": "Davao City",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 6:00 PM",
+      "website": "www.museodabawenyo.gov.ph",
+      "description": "The Museo Dabawenyo is a regional museum that highlights the history, culture, and traditions of the Davao region.",
+      "images": [
+        "https://davaocorporate.info/wp-content/uploads/2023/01/Museo-Dabawenyo.jpg.webp",
+        "https://b3466367.smushcdn.com/3466367/wp-content/uploads/2023/06/museo-4.jpg?lossy=2&strip=1&webp=1",
+        "https://b3466367.smushcdn.com/3466367/wp-content/uploads/2023/06/museo-5.jpg?lossy=2&strip=1&webp=1",
+        "https://b3466367.smushcdn.com/3466367/wp-content/uploads/2023/06/museo-6.jpg?lossy=2&strip=1&webp=1",
+        "https://b3466367.smushcdn.com/3466367/wp-content/uploads/2023/06/museo-2.jpg?lossy=2&strip=1&webp=1"
+      ]
+    },
+    {
+      "name": "Battle of Surigao Strait Museum",
+      "location": "Surigao City",
+      "hours": "Open Tuesday to Sunday, 8:00 AM to 5:00 PM",
+      "phone": "+63 86 826 2345",
+      "description": "The Battle of Surigao Strait Museum commemorates the historic naval battle that took place during World War II in the waters off Surigao Strait.",
+      "images": [
+        "https://rpnradio.com/wp-content/uploads/2020/08/Aug-20-DXKS-news-CITY-TOURISM-ANNOUNCED-THE-REOPENING-OF-THE-BATTLE-OF-SURIGAO-STRAIT-MEMORIAL-AND-MUSEUM1.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/12/3b/2c/5c/well-curated-museum.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/12/3b/2c/1b/inside-museum.jpg"
+      ]
+    },
+    {
+      "name": "Agusan Museum",
+      "location": "Butuan City",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "website": "www.agusanmuseum.gov.ph",
+      "description": "The Agusan Museum showcases the rich cultural heritage and history of the Agusan province, including its indigenous communities and archaeological findings.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Butuan_National_Museum_%28Butuan%2C_Mindanao%29.jpg/800px-Butuan_National_Museum_%28Butuan%2C_Mindanao%29.jpg?20150907191820",
+        "https://i0.wp.com/caragaregion.com/wp-content/uploads/2016/07/modernized-butuan-national-museum.jpg?fit=800%2C543&ssl=1",
+        "https://farm2.staticflickr.com/1640/26060094421_ac3b2ca333_z.jpg"
+      ]
+    },
+    {
+      "name": "Xavier University Museum (Museo de Oro)",
+      "location": "Cagayan de Oro",
+      "hours": "Open Monday to Saturday, 9:00 AM to 5:00 PM",
+      "website": "www.xu.edu.ph/museum",
+      "description": "The Xavier University Museum, also known as the Museo de Oro, houses a collection of pre-Hispanic gold artifacts and other cultural treasures from the Mindanao region.",
+      "images": [
+        "https://www.xu.edu.ph/images/2019/img/october/m_1.png",
+        "https://www.xu.edu.ph/images/2019/img/october/m_2.jpg",
+        "https://www.xu.edu.ph/images/2019/img/october/m_3.png",
+        "https://www.xu.edu.ph/images/2019/img/october/m_4.png"
+      ]
+    },
+    {
+      "name": "Zamboanga City Museum (Fort Pilar)",
+      "location": "Zamboanga City",
+      "hours": "Open Tuesday to Sunday, 8:00 AM to 5:00 PM",
+      "website": "www.zamboangacitymuseum.gov.ph",
+      "description": "The Zamboanga City Museum is located within the historic Fort Pilar and showcases the city's Spanish colonial heritage, as well as its diverse cultural influences.",
+      "images": [
+        "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2021/08/01123201/STRUCTURE-1-INSIDE-768x432.jpg",
+        "https://pbs.twimg.com/media/EKljVGFU8AABe1A?format=jpg&name=large",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXiDYciBuw6mIBovuP-WPeNzUTCWUJtBGDkmNQKVWp3p6o3P2zW0dJ-fzcPB0XHqIlcMrTQ_F0j8Catd5TPD8lqrB-2Kvz8DDjlo7mTH7hBXyWWbBaUqSaTtA69mn_f0dfT_TpGQUbLiA/s1600/PC301282_1.jpg"
+      ]
+    },
+    {
+      "name": "Moncado White House",
+      "location": "Marawi City",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "phone": "+63 63 421 7890",
+      "description": "The Moncado White House is a museum that highlights the history and culture of the Maranao people, featuring traditional architecture, artifacts, and crafts.",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a9/06/79/this-mansion-was-built.jpg?w=1200&h=-1&s=1",
+        "https://lh3.googleusercontent.com/p/AF1QipMpwrmC8kDYwWQiSH1acOfnY_ubdcN05YI686Kg=w287-h192-n-k-rw-no-v1"
+      ]
+    },
+    {
+      "name": "Butuan National Museum",
+      "location": "Butuan City",
+      "hours": "Open Tuesday to Sunday, 8:00 AM to 5:00 PM",
+      "website": "www.butuannationalmuseum.gov.ph",
+      "description": "The Butuan National Museum is a branch of the National Museum of the Philippines, showcasing the rich archaeological and cultural heritage of the Caraga region.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Butuan_National_Museum_%28Butuan%2C_Mindanao%29.jpg/800px-Butuan_National_Museum_%28Butuan%2C_Mindanao%29.jpg?20150907191820",
+        "https://i0.wp.com/caragaregion.com/wp-content/uploads/2016/07/modernized-butuan-national-museum.jpg?fit=800%2C543&ssl=1",
+        "https://farm2.staticflickr.com/1640/26060094421_ac3b2ca333_z.jpg"
+      ]
+    },
+    {
+      "name": "Museum of Three Cultures",
+      "location": "Cotabato City",
+      "hours": "Open Monday to Friday, 8:00 AM to 5:00 PM",
+      "phone": "+63 64 421 2345",
+      "description": "The Museum of Three Cultures showcases the harmonious coexistence of the Maguindanao, Christian, and Indigenous peoples of the region through artifacts and exhibits.",
+      "images": [
+        "https://res.cloudinary.com/joserizaldoph/image/upload/v1599691754/Museum%20of%20Three%20Cultures.jpg",
+        "https://images.philippines.education/image_server.php?id=3025&pic=1",
+        "https://lh3.googleusercontent.com/proxy/xH1pLZISbN7H9LYCEECZBcItX1AxETDmjz9FFtZ8B3a6eJF4ZLmUu5YFSPt9ADN8P0aHLHLm4m94Uz9iQy31PjbDxVTIC8mNY-hcUGtD7A"
+      ]
+    },
+    {
+      "name": "Lake Sebu Tribal Museum",
+      "location": "Lake Sebu, South Cotabato",
+      "hours": "Open Monday to Saturday, 8:00 AM to 5:00 PM",
+      "description": "The Lake Sebu Tribal Museum celebrates the indigenous T'boli culture through traditional artifacts, crafts, and exhibits.",
+      "images": [
+        "https://live.staticflickr.com/6179/6162469762_dc5bdb128f_b.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbI8RlWPv_l5X97ucrasntEgVMX-NL0PTEYU1Uf046muzDgpksyk-k-rWw7MBwD9H1TGkEsZJf5SRevT4_vOKJPwVxO4Z7Pj-dLOfxGobDU_Z6ypdodbj_xnIltfaizppszrf4-jbZyCY/s1600/IMG_5764.jpg"
+      ]
+    }
+  ]
+}

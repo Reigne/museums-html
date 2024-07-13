@@ -1,0 +1,361 @@
+{
+    "Metro Manila": [
+      {
+        "name": "National Museum of Fine Arts",
+        "description": "Displays a collection of classical and contemporary Filipino visual arts.",
+        "image": "https://www.thepoortraveler.net/wp-content/uploads/2020/01/National-Museum-Fine-Arts-Manila.jpg"
+      },
+      {
+        "name": "National Museum of Anthropology",
+        "description": "Focuses on Filipino archaeology and anthropology.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "National Museum of Natural History",
+        "description": "Features exhibits on Philippine biodiversity and natural history.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Ayala Museum",
+        "description": "Showcases Filipino creativity across various disciplines.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "The Mind Museum",
+        "description": "An interactive science museum that showcases the wonders of science.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museum of Contemporary Art and Design (MCAD)",
+        "description": "Focuses on contemporary art and design in the Philippines.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Metropolitan Museum of Manila",
+        "description": "Features modern and contemporary Philippine art.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Yuchengco Museum",
+        "description": "Showcases art collections and exhibits on Philippine culture.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "San Agustin Museum",
+        "description": "Located within the San Agustin Church, showcasing religious art and artifacts.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Rizal Shrine Museum",
+        "description": "A museum dedicated to the life and works of Dr. Jose Rizal.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Pinto Art Museum",
+        "description": "A museum featuring contemporary and indigenous art.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Philippine Air Force Aerospace Museum",
+        "description": "Showcases the history of the Philippine Air Force and aviation in the country.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Philippine Army Museum",
+        "description": "Highlights the history and achievements of the Philippine Army.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Veterans Memorial Museum",
+        "description": "Dedicated to Filipino war veterans and their contributions.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo Pambata",
+        "description": "A children's museum with interactive exhibits.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "UP Vargas Museum",
+        "description": "Features modern and contemporary art collections.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo de Intramuros",
+        "description": "Showcases religious and cultural artifacts within the historic walled city of Intramuros.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "The Shoe Museum",
+        "description": "Dedicated to the history and evolution of footwear.",
+        "image": "placeholder-image-url"
+      }
+    ],
+    "Luzon": [
+      {
+        "name": "Museo Ilocos Norte",
+        "description": "Showcases the cultural heritage and history of Ilocos Norte.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "BenCab Museum",
+        "description": "A museum featuring the artworks of National Artist Benedicto Cabrera.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Baguio Museum",
+        "description": "Focuses on the cultural and historical heritage of Baguio City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo de Baler",
+        "description": "Showcases the history and culture of Baler, Aurora.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Casa Manila",
+        "description": "A museum depicting colonial lifestyle during the Spanish era.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Clark Museum and 4D Theater",
+        "description": "Showcases the history and culture of Clark Freeport Zone.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Apolinario Mabini Shrine",
+        "description": "Dedicated to Apolinario Mabini, a hero of the Philippine Revolution.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo ni Juan Luna",
+        "description": "A museum featuring the works and life of Juan Luna, a Filipino painter.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Cagsawa National Museum",
+        "description": "Showcases artifacts from the Cagsawa Ruins and history of Albay.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo ng Kasaysayang Panlipunan ng Pilipinas",
+        "description": "Focuses on Philippine social history.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo de La Salle",
+        "description": "A museum showcasing the history of De La Salle University and its founder.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Bataan World War II Museum",
+        "description": "Dedicated to the events and heroes of World War II in Bataan.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo Sorsogon",
+        "description": "Showcases the cultural heritage of Sorsogon.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo ni Jose Rizal",
+        "description": "Dedicated to the national hero, Jose Rizal, in his hometown of Calamba.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Aguinaldo Shrine and Museum",
+        "description": "Dedicated to Emilio Aguinaldo, the first President of the Philippines.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Balanga City Museum",
+        "description": "Showcases the history and culture of Balanga City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo ng Paglilitis ni Andres Bonifacio",
+        "description": "Dedicated to Andres Bonifacio, a hero of the Philippine Revolution.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Mount Samat National Shrine",
+        "description": "A historical shrine commemorating the Battle of Bataan.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo ng Republika ng 1899",
+        "description": "Focuses on the Philippine Republic of 1899.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Villa Escudero Museum",
+        "description": "Showcases artifacts and memorabilia of the Escudero family.",
+        "image": "placeholder-image-url"
+      }
+    ],
+    "Visayas": [
+      {
+        "name": "Casa Gorordo Museum",
+        "description": "A museum showcasing Filipino-Spanish heritage in Cebu.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo Sugbo",
+        "description": "A provincial museum showcasing Cebuano heritage and history.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Basilica del Santo Niño Museum",
+        "description": "Located within the Basilica Minore del Santo Niño, showcasing religious artifacts.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Balay Negrense Museum",
+        "description": "A heritage house museum in Negros Occidental.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "The Negros Museum",
+        "description": "Showcases the history, culture, and arts of Negros Occidental.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Bohol National Museum",
+        "description": "Showcases artifacts and exhibits related to Bohol's history and culture.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "National Museum of the Philippines – Cebu",
+        "description": "Branch museum of the National Museum in Cebu City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Iloilo Museum of Contemporary Art",
+        "description": "A museum featuring contemporary artworks in Iloilo City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Rizal Memorial Library and Museum",
+        "description": "A museum and library complex in Cebu City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "University of San Carlos Museum",
+        "description": "Showcases cultural and historical artifacts in Cebu City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Gabaldon Building Museum",
+        "description": "A historical museum housed in a Gabaldon building in Iloilo City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Negros Occidental Provincial Capitol and Museum",
+        "description": "A museum located within the provincial capitol building in Bacolod City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Patnongon Museum",
+        "description": "A local museum in Patnongon, Antique showcasing local history and culture.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Silliman University Anthropology Museum",
+        "description": "A museum at Silliman University focusing on anthropology.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Santa Barbara Centennial Museum",
+        "description": "A museum in Santa Barbara, Iloilo showcasing local history and culture.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Boljoon Parish Museum",
+        "description": "A museum showcasing religious artifacts in Boljoon, Cebu.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "University of the Philippines Visayas Museum of Natural Sciences",
+        "description": "A museum at UP Visayas focusing on natural sciences.",
+        "image": "placeholder-image-url"
+      }
+    ],
+    "Mindanao": [
+      {
+        "name": "D' Bone Collector Museum",
+        "description": "A natural history museum featuring skeletons and fossils in Davao City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo Dabawenyo",
+        "description": "A museum showcasing the history and culture of Davao City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Battle of Surigao Strait Museum",
+        "description": "A museum dedicated to the Battle of Surigao Strait during World War II.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Agusan Museum",
+        "description": "A museum showcasing the culture and history of Agusan del Norte.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Xavier University Museum (Museo de Oro)",
+        "description": "A museum featuring ethnographic artifacts and cultural heritage.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Zamboanga City Museum (Fort Pilar)",
+        "description": "A museum housed in Fort Pilar, showcasing Zamboanga City's history.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Moncado White House",
+        "description": "A historical house museum in Marawi City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Butuan National Museum",
+        "description": "A museum featuring artifacts from Butuan's archaeological sites.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Maritime Museum of the Philippines",
+        "description": "A museum focusing on maritime history and culture.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "GenSan Museum",
+        "description": "A museum showcasing the cultural heritage of General Santos City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Museo ng Pag-Asa",
+        "description": "A museum in Bansalan, Davao del Sur featuring local history and culture.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "T'boli Museum",
+        "description": "A museum showcasing T'boli culture and heritage.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Balanghai Shrine Museum",
+        "description": "A museum showcasing the ancient boats (balanghai) of Butuan.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Malagos Garden Resort Museum",
+        "description": "A museum featuring flora, fauna, and chocolate-making process in Davao City.",
+        "image": "placeholder-image-url"
+      },
+      {
+        "name": "Cotabato City Museum",
+        "description": "A museum showcasing the history and culture of Cotabato City.",
+        "image": "placeholder-image-url"
+      }
+    ]
+  }
+  
