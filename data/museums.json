@@ -119,6 +119,127 @@
         "https://www.wayfarerly.com/wp-content/uploads/2023/03/bencab-museum-baguio.jpg",
         "https://lh3.googleusercontent.com/p/AF1QipM13_YkSp26r-N1Lzt_QMdw1YdNDArDW2r9OH10=s1600-w1600-h1600"
       ]
+    },
+    {
+      "name": "Museo Ilocos Norte, Laoag",
+      "location": "Laoag, Ilocos Norte",
+      "hours": "Open Tuesday to Sunday, 8:00 AM to 5:00 PM",
+      "website": "www.museoinocosnorte.gov.ph",
+      "description": "The Museo Ilocos Norte showcases the history, culture, and traditions of the Ilocos Norte province.",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/8b/e0/3a/museo-ilocos-norte.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/75/4e/89/1376978-238880522928253.jpg?w=600&h=-1&s=1",
+        "http://www.benjielayug.com/wp-content/uploads/2016/03/Museo-Ilocos-Norte-1.jpg"
+      ]
+    },
+    {
+      "name": "BenCab Museum, Baguio",
+      "location": "Baguio City",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 6:00 PM",
+      "website": "www.bencabmuseum.org",
+      "description": "The BenCab Museum features the works of renowned Filipino artist Benedicto \"BenCab\" Cabrera, as well as other contemporary Filipino art.",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/1f/2d/ce/bencab-museum.jpg?w=1200&h=-1&s=1",
+        "https://getaway.ph/storage/2020/11/20190523_124624-1024x498.jpg",
+        "https://www.shiningmom.com/wp-content/uploads/2016/06/IMG_6217.jpg"
+      ]
+    },
+    {
+      "name": "Baguio Museum, Baguio",
+      "location": "Baguio City",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "phone": "+63 74 442 2844",
+      "description": "The Baguio Museum highlights the history, culture, and natural wonders of Baguio City and the Cordillera region.",
+      "images": [
+        "https://gttp.imgix.net/405117/x/0/private-baguio-city-culture-tour-with-snacks-hotel-transfers-2.jpg?auto=format%2Ccompress&crop=faces%2Cedges%2Ccenter&bg=%23fff&fit=crop&q=32&h=800&dpr=1",
+        "https://fastly.4sqi.net/img/general/width960/67798207_44CmW8YNL-AFoQxooY82SVWB-1eAazgMiBNj8XIedQc.jpg",
+        "https://fastly.4sqi.net/img/general/width960/358318248_UOAGh2V7MJ7Z9j37Qaj9HDfLCn5d-LhsBd0OEzXGkNk.jpg"
+      ]
+    },
+    {
+      "name": "Museo de Baler, Aurora",
+      "location": "Baler, Aurora",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "website": "www.museodebaler.gov.ph",
+      "description": "The Museo de Baler showcases the rich history and cultural heritage of Baler, a municipality known for its surfing and as the birthplace of Philippine national hero, Manuel L. Quezon.",
+      "images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCQzKqILtKB3VmbhQKOTkgEiaST7ooj6US4c_QFOIc_yns0_l_kDQuiMHz9jB9nbNWXFSLvcED_7qM5OxYkB3SGCHmGopFTzWqFtLkBtxN8AvEtQAsoMvMCxV9iwiXWYDZnyi97VtFBgJw/s1600/_MG_1287.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix8PbKW94HcIq68fxv5YBwD3rhkXPJ4s4l-E1acXZFMrQaObbd5B_6E9VzUYjW-q9JNMlIPM48zwBA43IHnijAqQLUaPa3xdk4T-N5OI-mi6EkSMsNqJRzFg5W7Bgi7ws_3u6Tho3Yr6W3/s1600/_MG_1289.jpg",
+        "https://euwander.home.blog/wp-content/uploads/2018/10/museo-de-baler.jpg"
+      ]
+    },
+    {
+      "name": "Casa Manila, Intramuros",
+      "location": "Intramuros, Manila",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 6:00 PM",
+      "website": "www.casamanila.intramuros.gov.ph",
+      "description": "Casa Manila is a museum that recreates a 19th-century Spanish colonial house, providing visitors with a glimpse into the lifestyle and architecture of the Intramuros district during the Spanish era.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Casa_Manila_museum_%2817106152838%29.jpg/220px-Casa_Manila_museum_%2817106152838%29.jpg",
+        "https://res.klook.com/image/upload/c_fill,w_1265,h_712/q_80/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/jkhxjyhlvmnobtykqaue.webp",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlRSBslZbsK84GNjdvLD1Q5JNMep2Msa-U_56DW2INwFNnpbpMA-AegEVE2PFFQP3OeCiLKqsDbTAJQeP1zKT4xq59GhwIGdsZGJG2wUljGx1sOC3xOag-zzO4LP4d2trPnycHpfmOu_M9cZLeQfDY6w3J_LkOZ-IMplKt5Sevpb-3BnyUg4O58sk/s1600/Casa%20Manila%20Museum%205.jpg"
+      ]
+    },
+    {
+      "name": "Clark Museum and 4D Theater",
+      "location": "S. Osmena Street, Clark Freeport Zone, Angeles City, Luzon",
+      "hours": "Tuesday to Sunday, 9:00 AM to 4:00 PM",
+      "website": "https://museu.ms/museum/details/18232/clark-museum-and-4d-theater",
+      "description": "The interactive Clark Museum showcases the Filipino spirit of bravery, industry, and ingenuity across 4 galleries. The 4D Theater features a documentary film highlighting Clark's rich history.",
+      "images": [
+        "https://newclark.ph/wp-content/uploads/2023/10/clark-museum-1536x729.webp",
+        "https://d1k571r5p7i4n1.cloudfront.net/c.7133/large/clark-museum-and-4d-theater.jpg",
+        "https://www.pampangatalents.com/04_Gallery/Pampanga/history/Clark_Museum/slides/Museum_4.JPG",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/52/b1/6e/20170115-133140-largejpg.jpg?w=1200&h=1200&s=1"
+      ]
+    },
+    {
+      "name": "Apolinario Mabini Shrine",
+      "location": "Santa Mesa, Manila, Philippines",
+      "hours": "Open Tuesday to Sunday, closed on public holidays",
+      "website": "www.thepoortraveler.net/2012/03/apolinario-mabini-shrine-tanauan-city-batangas/",
+      "description": "The Apolinario Mabini Shrine is a historic site in Santa Mesa, Manila, noted for being the residence of Filipino military leader Apolinario Mabini.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_Mabini_Shrine.JPG/800px-The_Mabini_Shrine.JPG",
+        "https://www.thepoortraveler.net/wp-content/uploads/2012/03/apolinario-mabini.jpg",
+        "https://www.thepoortraveler.net/wp-content/uploads/2012/03/apolinario-mabini-2.jpg"
+      ]
+    },
+    {
+      "name": "Museo de Intramuros",
+      "location": "Intramuros, Manila, Philippines",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 5:00 PM",
+      "website": "www.intramuros.gov.ph",
+      "description": "The Museo de Intramuros is located within the historic walled city of Intramuros in Manila. It features religious art and artifacts from the Spanish colonial period.",
+      "images": [
+        "https://2.bp.blogspot.com/-Yp0YOTzYd0c/XZJD3lL5LKI/AAAAAAAAC9s/zzTc7Tg2Vns7fMf8wJmuhkWbJ9GDIqoRQCLcBGAsYHQ/s1600/museo%2Bde%2Bintramuros.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/14/61/46/caption.jpg?w=1000&h=600&s=1",
+        "https://i.pinimg.com/originals/9f/2e/1d/9f2e1d5a0c477efb20f35c7b6a70236b.jpg"
+      ]
+    },
+    {
+      "name": "Pinto Art Museum",
+      "location": "1 Sierra Madre Street, Grand Heights Subdivision, Antipolo City, Rizal",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 6:00 PM",
+      "website": "www.pintoartmuseum.com",
+      "description": "Pinto Art Museum is a private contemporary art museum located in Antipolo City, Rizal. It showcases modern and contemporary Philippine art.",
+      "images": [
+        "https://4.bp.blogspot.com/-w2-ADvulbUs/Wo_1Y5yPfjI/AAAAAAAAA1s/1F5i4i9F9A4NgrBmyWfF0NL5jXHdCblBQCLcBGAs/s1600/pinto%2Bart%2Bmuseum.jpg",
+        "https://3.bp.blogspot.com/-g1z22-wEXtk/Wo_1WxWjs6I/AAAAAAAAA1o/Nj2wh0yYt7o4GGm2aVUfjN3-2wE9ILH6gCLcBGAs/s1600/pinto%2Bart%2Bmuseum%2Bantipolo.jpg",
+        "https://www.taraletsanywhere.com/wp-content/uploads/2017/05/pinto-art-museum-gallery.jpg"
+      ]
+    },
+    {
+      "name": "The Mind Museum",
+      "location": "J.Y. Campos Park, 3rd Avenue, Bonifacio Global City, Taguig",
+      "hours": "Open Tuesday to Sunday, 9:00 AM to 6:00 PM",
+      "website": "www.themindmuseum.org",
+      "description": "The Mind Museum is a science museum in Taguig, Metro Manila, featuring interactive exhibits about science, technology, and the natural world.",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/18/a6/6a/the-mind-museum.jpg?w=1200&h=-1&s=1",
+        "https://cdn.tourradar.com/s3/tour/original/135924_2f9c82d5.jpg",
+        "https://ph.asiatatler.com/uploads/images/2020/10/28/1603866762-9efd5984-87e1-11ea-b735-51685b67e3c7.jpg"
+      ]
     }
   ],
   "Visayas": [

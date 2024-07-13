@@ -33,7 +33,7 @@ body {
 /* Left side styles */
   .left-side {
     flex: 1;
-    background: url("background-image-2.jpg") no-repeat center center fixed;
+    background: url("background-image-4.jpg") no-repeat center center fixed;
     background-size: cover;
     background-position: center;
   }
